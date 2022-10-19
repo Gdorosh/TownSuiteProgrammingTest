@@ -1,0 +1,15 @@
+D:\Coding\TownSuiteTest\TownSuiteTest\bin\Debug\net6.0\TownSuiteTest.exe
+D:\Coding\TownSuiteTest\TownSuiteTest\bin\Debug\net6.0\TownSuiteTest.deps.json
+D:\Coding\TownSuiteTest\TownSuiteTest\bin\Debug\net6.0\TownSuiteTest.runtimeconfig.json
+D:\Coding\TownSuiteTest\TownSuiteTest\bin\Debug\net6.0\TownSuiteTest.dll
+D:\Coding\TownSuiteTest\TownSuiteTest\bin\Debug\net6.0\TownSuiteTest.pdb
+D:\Coding\TownSuiteTest\TownSuiteTest\obj\Debug\net6.0\TownSuiteTest.csproj.AssemblyReference.cache
+D:\Coding\TownSuiteTest\TownSuiteTest\obj\Debug\net6.0\TownSuiteTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\TownSuiteTest\TownSuiteTest\obj\Debug\net6.0\TownSuiteTest.AssemblyInfoInputs.cache
+D:\Coding\TownSuiteTest\TownSuiteTest\obj\Debug\net6.0\TownSuiteTest.AssemblyInfo.cs
+D:\Coding\TownSuiteTest\TownSuiteTest\obj\Debug\net6.0\TownSuiteTest.csproj.CoreCompileInputs.cache
+D:\Coding\TownSuiteTest\TownSuiteTest\obj\Debug\net6.0\TownSuiteTest.dll
+D:\Coding\TownSuiteTest\TownSuiteTest\obj\Debug\net6.0\refint\TownSuiteTest.dll
+D:\Coding\TownSuiteTest\TownSuiteTest\obj\Debug\net6.0\TownSuiteTest.pdb
+D:\Coding\TownSuiteTest\TownSuiteTest\obj\Debug\net6.0\TownSuiteTest.genruntimeconfig.cache
+D:\Coding\TownSuiteTest\TownSuiteTest\obj\Debug\net6.0\ref\TownSuiteTest.dll
